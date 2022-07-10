@@ -27,7 +27,8 @@
 1. display all integers within the range 1001.150 whose sum of digits is an even number
 1. Find Your Weight on Mars
 1. Check Whether the Generated Random Number Is Even or Odd
-1. Find the Number of Containers You Needvvv
+1. Find the Number of Containers You Need
+1. multiply and divide a number by 2 without using arithmetic operators (bitwise operations)
 
 ## Level 3
 
@@ -59,7 +60,7 @@
 1. reverse an array
 1. reverse a Linked List
 1. Traverse a binary tree
-
+1. Create a singleton object
 
 
 
